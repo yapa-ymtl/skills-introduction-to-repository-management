@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @yapa-ymtl
+/src/backend/database.py      @yapa-ymtl
+/src/backend/routers/auth.py  @yapa-ymtl
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @yapa-ymtl
